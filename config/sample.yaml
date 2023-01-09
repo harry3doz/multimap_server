@@ -1,0 +1,10 @@
+world:
+  global_frame: world
+  maps_package: multimap_server
+  maps:
+    localization: prmaps/sh/map.yaml
+area01:
+  global_frame: area01_map
+  maps_package: multimap_server
+  maps:
+    localization: prmaps/sh/map.yaml
